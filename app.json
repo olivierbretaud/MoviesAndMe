@@ -1,0 +1,10 @@
+{
+  "displayName": "Enjoy movies",
+  "name": "MoviesAndMe",
+  "expo": {
+    "name": "My app",
+    "slug": "my-app",
+    "sdkVersion": "UNVERSIONED",
+    "privacy": "public"
+  }
+}
