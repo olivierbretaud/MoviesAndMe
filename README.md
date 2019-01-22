@@ -1,9 +1,21 @@
-{
-  "scripts": {
-    "start": "react-native start",
-    "android": "react-native run-android",
-    "ios": "react-native run-ios"
-  },
+# My resume 2019
+
+## Installation
+
+### Requirements
+* ES6
+* React-native
+
+## Updating to New Releases
+
+[Getting Started with react-native ](https://facebook.github.io/react-native/docs/getting-started.html)
+
+In the project directory, you can run:
+`npm install` 
+`npm run android`
+
+##  Dependencies
+```javascript
   "dependencies": {
     "@babel/runtime": "^7.2.0",
     "expo": "^32.0.0",
@@ -17,11 +29,5 @@
     "redux-persist": "^5.10.0",
     "watchman": "^1.0.0",
     "webpack": "^4.28.4"
-  },
-  "devDependencies": {
-    "babel-preset-expo": "^5.0.0",
-    "react-test-renderer": "16.6.0-alpha.8af6728",
-    "schedule": "^0.4.0"
-  },
-  "private": true
-}
+  }
+```
