@@ -1,6 +1,6 @@
 # MoviesAndMe
 
-android application to manager our favorites movies
+android application to manage our favorites movies
 
 ## Installation
 [Getting Started with react-native ](https://facebook.github.io/react-native/docs/getting-started.html)
