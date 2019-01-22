@@ -1,4 +1,6 @@
-# My resume 2019
+# MoviesAndMe
+
+android application to manager our favorites movies
 
 ## Installation
 
