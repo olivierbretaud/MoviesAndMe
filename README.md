@@ -3,15 +3,13 @@
 android application to manager our favorites movies
 
 ## Installation
+[Getting Started with react-native ](https://facebook.github.io/react-native/docs/getting-started.html)
 
 ### Requirements
 * ES6
 * React-native
 
 ## Updating to New Releases
-
-[Getting Started with react-native ](https://facebook.github.io/react-native/docs/getting-started.html)
-
 In the project directory, you can run:
 `npm install` 
 `npm run android`
